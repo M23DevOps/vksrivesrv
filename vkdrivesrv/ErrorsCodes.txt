@@ -1,0 +1,7 @@
+0 - No Errors. Ok
+1 - Failed Authorization
+2 - Access to module denied
+3 - Can't logout
+4 - No valid session. Need to Login
+5 - Cant upload image
+6 - Cant get images

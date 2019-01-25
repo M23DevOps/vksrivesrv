@@ -1,0 +1,19 @@
+{
+    "database": {
+        "Host": "localhost",
+        "user": "postgres",
+        "dbname": "vkdrivedb",
+        "password": "root"
+    },
+    "app": {
+        "client_id": "666",
+        "client_secret": "xxx",
+        "redirect_uri": "http://localhost:4200/auth"
+    },
+    "bot": {
+        "bot_id": "1",
+        "token": "secret_token",
+		"private_album_id": "1",
+		"public_album_id": "1"
+    }
+}
